@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-O9211u1gbKCjIu971Jxh\/71\/KxHkIIKm0JCSOmDuxBw=",
+      "hash": "sha256-YqK4nKHAzEf+F0KeO+VRBb\/lpDbeDKcrg+R55FhfgPk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-3PI18qtiZsVhsRQMTJ6IwzWizt+aw9UZBHmI0e74BK4=",
+      "hash": "sha256-7RVpbwsCXXTuS39IZ8ZHO5llNuDGhYctyTbYrZ3BBXU=",
       "url": "_framework\/OnlineExams.wasm"
     },
     {
@@ -205,5 +205,5 @@
       "url": "MTA-98-361.json"
     }
   ],
-  "version": "kra+LLVb"
+  "version": "gbFSI8Lb"
 };
