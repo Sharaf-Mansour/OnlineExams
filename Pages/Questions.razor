@@ -1,0 +1,121 @@
+﻿@page "/q/{QNumber:int}"
+    <section class="sec1" style="margin: 10px;">
+        <section class="sec2">
+            <table border="0" style="margin-left: 10px;">
+                <tr>
+                    <td><span class="title">@QNumber : @ExamService.RetrieveQeustionsCount() &nbsp;</span></td>
+                    <td>
+                        <label class="ls">
+                        <input type="checkbox" class="inpchb" id="cbmark"  @bind="Question.IsFlagged"/>
+                            <span class="spns1"></span>
+                        </label>
+                    </td>
+                    <td>
+                        <label class="ls" for="cbshow1">
+                        <input type="checkbox" class="inpchb" id="cbshow1" @bind="ExamService.AllowShowAnswer" />
+                            <span class="spns2"></span>
+                        </label>
+                    </td>
+                    <td>
+                    <button class="btnsubmit" @onclick='()=>NavigationManager.NavigateTo("/Review")'>End</button>
+                    </td>
+                </tr>
+            </table>
+        </section>
+    @if (Question.Type is ControlType.ImgRadio)
+        {
+        <img src="@Question.Value" style="  max-width: 75%;  height: auto;" />
+        }
+        else
+        {
+        <pre style="padding:20px"> @Question.Value </pre> <br />
+        }
+        <div style="padding: 20px;">
+        @for (var i =0; i < Question.Answers.Length; i++)
+            {
+            var index = i;
+            if (Question.Type is ControlType.RadioButton or ControlType.ImgRadio)
+            {
+                <input type="radio" name="radio" id="@Question.Answers[index].ID" value="@Question.Answers[index].Value" @onchange="() => RadioSelection(Question.Answers[index])" checked="@Question.Answers[index].IsSelected" />
+                <label class="label" for="@Question.Answers[index].ID">	<pre>@Question.Answers[index].Value </pre> </label>
+                <br />
+                <br />
+            }
+            else if (Question.Type is ControlType.CheackBox)
+                {
+                <input type="checkbox" id="@Question.Answers[index].ID" @bind="@Question.Answers[index].IsSelected" @bind:after="()=> CheckSelection(Question.Answers[index])" />
+
+                <label class="label" for="@Question.Answers[index].ID">	<pre>@Question.Answers[index].Value </pre> </label>
+                    <br />
+                    <br />
+                }
+            }
+        @if (Question.Type is ControlType.YesNo)
+            {
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                            <pre>@Question.Answers[0].Value </pre>
+                            </th>
+                            <th>
+                            <pre>@Question.Answers[1].Value </pre>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                            <input type="radio" id="@Question.Answers[0].ID" value="@Question.Answers[0].Value" @onchange="() => RadioSelection(Question.Answers[0])" checked="@Question.Answers[0].IsSelected" />
+                            <label class="label" for="@Question.Answers[0].ID"><pre> </pre></label>
+                            </td>
+                            <td>
+                            <input type="radio" id="@Question.Answers[1].ID" value="@Question.Answers[1].Value" @onchange="() => RadioSelection(Question.Answers[1])" checked="@Question.Answers[1].IsSelected" />
+                            <label class="label" for="@Question.Answers[1].ID"><pre></pre></label>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br />
+                <br />
+            }
+            <h1>
+            @(ExamService.AllowShowAnswer ? (IsAnswered || Question.Answers.Any(x => x.IsSelected) ) ?
+                (CorrectAnswer || Question.IsCorrect) ? "CORRECT" : "WRONG" : "" : "")
+            </h1>
+        </div>
+        <table border="0">
+            <tr>
+                <td>
+                    @if (QNumber is 1)
+                    {
+                        <button class="arrow">&larr;</button>
+                    }
+                    else
+                    {
+                    <button class="arrow" @onclick='()=>NavigateToComponent($"{(QNumber - 1) % (ExamService.RetrieveQeustionsCount()  + 1)}")'>&larr;</button>
+                    }
+                @if (QNumber == ExamService.RetrieveQeustionsCount())
+                    {
+                        <button class="arrow">&rarr;</button>
+                    }
+                    else
+                    {
+                    <button class="arrow" @onclick='()=>NavigateToComponent($"{(QNumber + 1) % (ExamService.RetrieveQeustionsCount()  + 1)}")'>&rarr;</button>
+
+                    }
+                </td>
+            </tr>
+        </table>
+    </section>
+    <footer>
+        <div class="scrollmenu">
+            @foreach (var question in ExamService.Exam.Questions)
+                {
+            <button @onclick='() => NavigateToComponent($"{question.Num}")' class='btnnav  @(question.Answers.Any(x => x.IsSelected) ? "btnnavcolorcheck" : "")  @((question.Num == QNumber) ? "active" : "")'>
+                <span class="spancheck  @(question.IsFlagged ? "mark" : "")  "></span>
+                <span class="spannav">@question.Num</span>
+             </button>
+                }
+        </div>
+    </footer>
