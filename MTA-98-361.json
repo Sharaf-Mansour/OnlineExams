@@ -1,0 +1,2709 @@
+{
+  "ExamCode": "MTA 98-361",
+  "Questions": [
+    {
+      "ID": 1,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the flowchart method.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the pivotchart method.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the data table method.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the XML method.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.  \r\n        You have been asked to create a new program for xyz.com.\r\n        Prior to creating the new program, you plan to create an algorithm to fully comprehend how the processes of the program must run. \r\n        The algorithm will list the required actions for completing a process in the appropriate sequence.  \r\n        You are informed that your method for creating the algorithm should be as simple, and clear as possible.  \r\n        What option should you use?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 2,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "CIL is the highest-level human-readable programming language defined by the Common Language Infrastructure specification.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "CIL is the lowest-level human-readable programming language defined by the Common Language Infrastructure specification.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "CIL is an object-oriented assembly language, and is entirely stack-based.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "CIL is an object-oriented assembly language, but is not stack-based.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. You are creating a .NET Framework application.\r\n        You have been instructed to make sure that you make use of Common Intermediate Language (CLI) for programming the application.\r\n        What options are TRUE with regards to CLI? (Choose all that apply.)",
+      "Type": 0,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 3,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "myArray[1]",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "myArray[2]",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "myArray[3]",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "myArray[4]",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 5,
+          "Value": "myArray[5]",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 6,
+          "Value": "myArray[6]",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. You make use of Visual Basic .Net for development purposes.\r\n        You have written the code shown below for declaring an array of a new application:\r\n        Dim myArray as String = { apples, pears, plums, grapes, oranges, bananas}\r\n        You want to return the third item in your array.\r\n        What code would you employ?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 4,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the void keyword in the method declaration.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the sealed C# statement in the method declaration.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the internal C# statement in the method declaration.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the public C# statement in the method declaration.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 5,
+          "Value": "You should consider making use of the protected C# statement in the method declaration.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You are in the process of creating code for a method that does not retrieve a value for the calling code.\r\n        You want to make sure that this is reflected when declaring the method.\r\n        What option should you use?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 5,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the foreach C# statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the while C# statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the protected C# statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the switch statement.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have received instructions to create a new program for xyz.com using C#.\r\n        You are informed that the new program should allow for intricate multi-way branching.\r\n        Furthermore, the code used must not be difficult to make sense of.\r\n        What is the option you should use?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 6,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the switch C# statement as part of your code.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the void keyword as part of your code.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the foreach C# statement as part of your code.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the interface keyword as part of your code.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been tasked with creating a new program for xyz.com using C#. \r\n        The new program will iterate throughout an assortment of lists and arrays.\r\n        Every element in this assortment must be processed just one time.\r\n        You are then informed that reading and debugging your code should not be difficult.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 7,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "int count = 1; \r\n        while (count \u003C= 7) {\r\n        Console.WriteLine(\u0022The value of count = {0}\u0022 , count);\r\n        count\u002B\u002B; }",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "int count = 0; \r\n        while (count \u003C= 7){\r\n        Console.WriteLine(\u0022The value of count = {7}\u0022 , count);\r\n        count\u002B\u002B; }",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "int count = 1; \r\n        while (count \u003C= 7) {\r\n        Console.WriteLine(\u0022The value of count = {7}\u0022 , count);\r\n        count\u002B\u002B; }",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "int count = 0; \r\n        while (count \u003C= 7) {\r\n        Console.WriteLine(\u0022The value of count = {0}\u0022 , count);\r\n        count\u002B\u002B; }",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to create a new application for xyz.com using C#. \r\n        The new application must process a loop repeatedly for precisely 7 times.\r\n        Which of the following represents the code you should write?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 8,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the static data type.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the string data type.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the private data type.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the long data type.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to create a new program for xyz.com. \r\n        The program should be able to affect integer values, which may be positive or negative and be greater than twelve characters.\r\n        You have to make sure that you are able to store this type of variable.\r\n        What is the option you should take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 9,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "return n * Factorial(n - 1);",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "return n;",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "return n * Factorial(n - 0);",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "return 0;",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP .NET for development purposes.\r\n        You have been instructed to create a new application that should include a recursive method that computes the factorial of a number.\r\n        You have written the following code for the method:\r\n        01: public static int Factorial(int n)\r\n        02:{\r\n        03: if (n = 0)\r\n        04 {\r\n        05: return 1\r\n        06:}\r\n        07: else\r\n        08:{\r\n        09:\r\n        10:}    \r\n        11:}\r\n        You have to insert suitable code at line 09 to make sure that the proper outcome is reached.\r\n        What line of code should be inserted?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 10,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "int count = O; \r\n        while (count \u003C 6) {\r\n        when (count == 6)\r\n        break;\r\n        count\u002B\u002B;\r\n        }",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "int count = O; \r\n        while (count \u003C 7) {\r\n        if (count == 5)\r\n        break;\r\n        count\u002B\u002B;\r\n        }",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "int count = 1; \r\n        while (count \u003C 6) {\r\n        if (count == 6)\r\n        break;\r\n        count\u002B\u002B;\r\n        }",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "int count = 1; \r\n        while (count \u003C 7) {\r\n        when (count == 5)\r\n        break;\r\n        count\u002B\u002B;\r\n        }",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are writing code for a new xyz.com application. \r\n        The code includes the while statement.\r\n        You want to make sure that a control enters the while loop six times.\r\n        VVhich of the following suitably represents the written code?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 11,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the public C# statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the sealed C# statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the private C# statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the do-while C# statement.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to create a new program for xyz.com.\r\n        You have to include a repetition structure that allows for the termination condition test to execute at the bottom of the loop not the top.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 12,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the public C# statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the for C# statement.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the private C# statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the sealed C# statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to create a program that includes code that allows the program to iterate a set amount of times.\r\n        Regardless of whether the loop body includes complex code, the written code should be understandable and easily maintainable.\r\n        What option should you use?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 13,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the private access modifier for distinguishing the percentValue variable.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the void access modifier for distinguishing the percentValue variable.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the string access modifier for distinguishing the percentValue variable.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the protected access modifier for distinguishing the percentValue variable.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have received instructions to create a method for determining the concession for products xyz.com sold.\r\n        A variable, named percentValue, is of the type double and must be only be available in the method.\r\n        Which of the following actions should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 14,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "{\r\n        retrieve length \u002B width;\r\n        }",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "{\r\n        length = l;\r\n        width = w;\r\n        }",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "{\r\n        retrieve length - width;\r\n        }",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "{\r\n        retrieve length \u002B width;\r\n        }",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are planning to make use of an InitFields method that obtains two parameters of data type double, but does not retrieve a value for the calling code.\r\n        You start writing code to define the InitFields method as shown below:\r\n        public void InitFields(double l, double w)\r\n        What code should you use to complete the code?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 15,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You are unable to make use of the virtual modifier with the static, abstract, private or override modifiers.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You are able to make use of the virtual modifier with the static, abstract, private or override modifiers.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "The use of the virtual modifier prevents inheritance of the class.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "e virtual modifier is used in a class declaration to indicate that a class is intended only to be a base class of other classes.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are in the process of creating a class that makes use of a method using the virtual modifier.\r\n        Which of the following is TRUE with regards to the virtual modifier? (Choose all that apply.)",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 16,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the sealed keyword.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the static keyword.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the public keyword.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the int keyword.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are in the process of defining a class to provide functionality for executing custom pivot transforms on big data sets.\r\n        You have been informed that derived classes should be prevented from inheriting the functionality of the class.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 17,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider developing a classified interface that is employed by all of the classes.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider configuring a customized interface for each class.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider configuring a unique interface for each class.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider developing a common interface that is employed by all of the classes.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You are in the process of creating a new application that includes numerous classes, with dissimilar algorithms.\r\n        You have been instructed to make sure that these classes are configured to print, regardless of their dissimilar algorithms.\r\n        Which of the following actions should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 18,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of a method.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of an element.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the while statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the foreach statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are in the process creating a class, named TKMovies. \r\n        You want to make sure that you have the ability to retrieve a list of all movies, which are arranged by the producer\u0027s surname.\r\n        You have to make sure that this feature of the class is suitably classified by the code you insert.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 19,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider creating an element in the class.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider creating a constructor in the class",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider creating a customized interface for the class.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider developing a common interface for the class.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to create a new class.\r\n        The new class must allow for the immediate initialization of its data members every time an object of the class is created.\r\n        Which of the following actions should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 20,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider defining the Area method for the derivative of the Shape class using public new void.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider defining the Area method for the derivative of the Shape class using private new void.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider defining the Area method for the derivative of the Shape class using public sealed void.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider defining the Area method for the derivative of the Shape class using private sealed void.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are in the process of developing a new derivative of the Shape class. \r\n        The Shape class makes use of public virtual void to define the Area method.\r\n        You want to make sure that the Area method in the Shape class allows for new operations, while keeping the execution of the Area method of the Shape class concealed.\r\n        What option should you use?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 21,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "class Rectangle : IConvertible {\r\n        public double Length { get; set; }\r\n        public double Width { get; set; }\r\n        public double GetArea(){ return Length * Width;}\r\n        public intCompareTo(object obj){\r\n        Rectangle target = (Rectangle)obj;\r\n        double diff = this.GetArea() - target.GetArea();\r\n        if (diff == 0) return 0;\r\n        else if (diff \u003E 0) return 1;\r\n        else return -1; }}",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "class Rectangle : IComparable {\r\n        public  Length { get; set; }\r\n        public  Width { get; set; }\r\n        public double GetArea(){return Area;}\r\n        public intCompareTo(object obj){\r\n        Rectangle target = (Rectangle)obj;\r\n        double diff = this.GetArea() - target.GetArea();\r\n        if (diff == 0) return 0;\r\n        else if (diff \u003E 0) return 1;\r\n        else return -1;}}",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "class Rectangle : IComparable {\r\n        public double Length { get; set; }\r\n        public double Width { get; set; }\r\n        public double GetArea() {return Length * Width;}\r\n        public intCompareTo(object obj){\r\n        Rectangle target = (Rectangle)obj;\r\n        double diff = this.GetArea() - target.GetArea();\r\n        if (diff == 0) return 0;\r\n        else if (diff \u003E 0) return 1;\r\n        else return -1;}}",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "class Rectangle : IComparable {\r\n        public  Length { get; set; }\r\n        public  Width { get; set; }\r\n        public double GetArea() {return Area;}\r\n        public intCompareTo(object obj){\r\n        Rectangle target = (Rectangle)obj;\r\n        double diff = this.GetArea() - target.GetArea();\r\n        if (diff == 0) return 0;\r\n        else if (diff \u003E 0) return 1;\r\n        else return -1;}}",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are instructed to develop a new Rectangle class. \r\n        The new class should allow for Rectangle objects to be compared.\r\n        What option suitably represents the necessary code?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 22,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider including the namespace C# keyword in your code.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider including the int C# keyword in your code.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider including the void C# key-vvord in your code.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider including the static C# keyword in your code.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are in the process of creating an application using C#.\r\n        You have just developed a class that has the same name as a class in a third-party library you are using.\r\n        You are informed that making use of this class in your code should not affect the clarity of your code.\r\n        VVhat action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 23,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of an abstract keyword.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of a string keyword.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of a virtual keyword.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of a static keyword.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have received instructions to create a new C# program for xyz.com.\r\n        You want to write code that declares members that belong to the actual class, not to specific objects.\r\n        What is the action you should take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 24,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider including a class.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider including a delegate.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider including a method.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider including a property.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are in the process of creating a new program using C#. \r\n        Your code has to include an element that meets the following requirements:\r\n        *Specifies the template for an object.\r\n        *Must be a characterization of a new data type.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 25,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider declaring the class using the public access modifier",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider declaring the class using the void access modifier",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider declaring the class using the private access modifier",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider declaring the class using the string access modifier",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to develop a new Windows application for xyz.com. \r\n        You are in the process of defining a new class. You want to make sure that code outside the assembly is prevented from accessing the class.\r\n        Code packaged in the same assembly should however have the ability to access this class, regardless of whether they inherit directly or indirectly from the class.\r\n        action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 26,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the actual keyword.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the limit keyword.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the interface keyword.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the concrete keyword.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to develop a new Windows application for xyz.com.\r\n        You are in the process of defining a new common base class that must be used by various derived classes. \r\n        You want to declare the new base class.\r\n        What is the option you should use?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 27,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It will enable derived classes to share common functionality with base classes, but prevent them from defining their own unique behavior.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It will prevent derived classes from sharing common functionality with base classes, while allowing them to define their own unique behavior.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It will prevent derived classes to share common functionality with base classes, and also prevent them from defining their own unique behavior.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "allowing them to define their own unique behavior.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to develop a new Windows application for xyz.com. \r\n        You have decided to make use of the inheritance object oriented programming concept.\r\n        What will this allow for?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 28,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider performing a requirements analysis.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider choosing a suitable design model.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider selecting a suitable backup strategy.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider selecting a release date.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a software system developer at xyz.com.\r\n        You are in the process of developing a new software system for xyz.com.\r\n        You are asked to identify the steps required in the development process.\r\n        What option suitably describes the FIRST step?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 29,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "Plans.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "Modes",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "Architecture.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "Hardware application.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a software system developer at xyz.com.\r\n        You are preparing the development of a new software system for xyz.com.\r\n        You are currently analyzing the results of the design process, prior to development.\r\n        What options form part of the results you are analyzing?",
+      "Type": 0,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 30,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "An architect develops system content.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "An architect develops the system\u0027s technical blueprint.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "An architect deals with quality control.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "An architect develops system manuals and help files.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a software system developer at xyz.com.\r\n        You have received a request for the development of a new software system. \r\n        You require the assistance of various types of developers during the development process, of which one is an architect.\r\n        What is the purpose of an architect?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 31,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "A technical writer develops system content.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "A technical writer develops the system\u0027s technical blueprint.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "A technical writer deals with quality control.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "A technical writer develops system manuals and help files.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a software system developer at xyz.com.\r\n        You have received a request for the development of a new software system.\r\n        You require the assistance of various types of developers during the development process, of which one is a technical writer.\r\n        What is the purpose of a technical writer?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 32,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It allows you to ascertain whether the program execution meets the initial requirements.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It allows you to optimize the program for performance and security.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It allows you to employ a data structure that serves as a buffer for overflow capacity.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It allows you to analyze the packaging, deployment, delivery, and support plan for the program.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to create a new program for xyz.com.\r\n        You have reached the testing stage of the development process.\r\n        What is the reason for the testing stage?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 33,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "A release manager develops system content.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "A release manager creates a rollout plan and certifies release candidates for shipment or deployment.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "A release manager deals with quality control.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "A release manager develops system manuals and help files.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a software system developer at xyz.com.\r\n        You have received a request for the development of a new software system.\r\n        You require the assistance of various people during the development process, ofwhich one is a release manager.\r\n        What is the purpose of a release manager?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 34,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "Merger.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "Improvement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "Rejection",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "Regression",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You have been instructed to create a new program for xyz.com.\r\n        You want to make sure that when you fix a problem with the program, it does not negatively affect the rest of the program.\r\n        You need to employ a suitable testing strategy.\r\n        What option should you use?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 35,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "White-box testing allows for testing every imaginable combination of end-user activities.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "White-box testing requires the creation test cases by studying the code to identiW any possible failure scenarios.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You are allowed to make use of sample applications to integrate and test the application block for white box testing.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "White-box testing is also known as glass box, clear box, and open box testing.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a senior developer at xyz.com. \r\n        You are responsible for running training exercises for junior developers.\r\n        During one of the training exercises, you are discussing testing. You are explaining what white-box testing entails.\r\n        What is TRUE with regards to white-box testing? (Choose all that apply.)",
+      "Type": 0,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 36,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "Black-box testing allows for testing every imaginable combination of end-user activities.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "Black-box testing requires the creation test cases by studying the code to identiW any possible failure scenarios.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You are allowed to make use of sample applications to integrate and test the application block for black box testing.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "Black-box testing is also known as glass box, clear box, and open box testing.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a senior developer at xyz.com.\r\n        You are responsible for running training exercises for junior developers.\r\n        During one of the training exercises, you are discussing testing. \r\n        You are explaining what black-box testing entails.\r\n        What is TRUE with regards to black-box testing? (Choose all that apply.)",
+      "Type": 0,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 37,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It is a contiguous collection of data items that can be accessed by an ordinal index.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It does not allow random access.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It does not support chaining, splitting, cycles, or other features that can leave the queue in a conflicting state.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It is the most commonly used data structure.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to create a new program for xyz.com. \r\n        You are planning to make use of a queue data structure.\r\n        Which of the following options are TRUE with regards to the queue data structure?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 38,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It is a contiguous collection of data items that can be accessed by an ordinal index.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It does not support chaining, splitting, cycles, or other features that can leave the stack in a conflicting state.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It processes items on a first come, last served system.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It is the most commonly used data structure.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to create a new program for xyz.com.\r\n        You are planning to make use of a stack data structure.\r\n        which of the following options are TRUE with regards to the stack data structure?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 39,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the contains queue operation.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the holds queue operation.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of controls queue operation.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of retains queue operation.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        xyz.com makes use of SQL Server databases in their environment.\r\n        xyz.com has an application that employs a queue data structure for influencing data. \r\n        A fellow developer, named Kara Lang, wants to know if the queue includes a data item without having to process the data item.\r\n        What option would you use?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 40,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the view queue operation.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the glance queue operation.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the peek queue operation.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the stare queue operation.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have created a new application for xyz.com.\r\n        The new application makes use of a stack data structure to handle data.\r\n        You want to perform a queue operation that enables you to locate the data item that is next in line for processing, without processing that data item.\r\n        VVhat option should you make use of?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 41,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "MergeSort",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "BubbleSort",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "BitonicSort",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "CounterSort",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are in the process of developing a new application. \r\n        You are making use of an algorithm in your code that requires making use of the comparison and swap techniques.\r\n        What algorithm are you using?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 42,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It allows you to navigate all of the list\u0027s nodes.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It prevents you from navigating to any list node.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It prevents you from randomly accessing the list\u0027s items.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It allows you to store linked list items in a contiguous memory location.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are in the process of developing a new application for xyz.com.\r\n        The application must make use of a list that has multiple nodes.\r\n        You link the application to only the head node.\r\n        What is TRUE for this scenario?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 43,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "An array data structure.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "A linked list data structure.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "A stack data structure.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "A queue data structure.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have been instructed to create a new xyz.com application that makes use of a data structure that satisfies the following requirements:\r\n        *Prohibits random access to its items.\r\n        *Are extremely fast in executing insert and delete operations.\r\n        *Are not stored in contiguous memory locations.\r\n        What data structure should you make use of?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 44,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "Doubly linked lists are able to store each of the elements they contain in different and unrelated storage locations.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It allocates all elements contiguously in memory, and keeps a count of the current number of elements.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It allows one to handle the structure by a single pointer, instead of two.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You are able insert or delete a node in a constant number of operations given only that node\u0027s address.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You are creating a new application using a doubly linked list data structure.\r\n        What is a TRUE statement with regards to this type of data structure?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 45,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It defines how elements are presented and where they are placed on the Web page.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It consists of a directive, which could extended with one or more attributes, within angle brackets.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It is used is used to create interactive web applications that are supported by the Netscape browser.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It is a collection of documents containing cross-reference links that can be used interactively by a user to move directly from one topic to another.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have received instructions to create a Web page for xyz.com. \r\n        You are planning to make use of Cascading Style Sheet (CSS) for the Web page.\r\n        What is TRUE with regards to using Cascading Style Sheet (CSS)?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 46,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the \u003CIMG\u003E HTML tag.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the \u003CHTTP\u003E HTML tag.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the \u003CPIC\u003E HTML tag.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the \u003CURL\u003E HTML tag.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You make use of C# and ASP.NET for development purposes.\r\n        You have recently developed a Web page for xyz.com. \r\n        xyz.com has informed that a picture that resides on a different web server must be presented to users when they access the Web page. \r\n        The picture can be retrieved via a public URL.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 47,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It defines the shape, coordinates, and related URL of a single hyperlink region within a client-side image map",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It allows you to create hyperlinks on your web page to access other pages on the Internet.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It enables the current document to establish links to external documents.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It inserts an image or a video clip in the document.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You are in the process of creating a new Web page for xyz.com.\r\n        You are planning to set the HREF attribute of an anchor element.\r\n        What is TRUE with this setting?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 48,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It will allow you to make sure that Web pages take the least time to load.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "An architect develops the system\u0027s technical blueprint.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It will prevent you from altering the JavaScript code.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It will increase the amount of data transmitted over the network.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You are in the process of creating a new Web page for xyz.com.\r\n        You have written JavaScript code for your Web site in a different file.\r\n        You then set the SRC attribute of the",
+      "Type": 0,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 49,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It is only used in 11S 6.0.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It is responsible for supporting the ASP.NET functionality.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It is considered an application pool process.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It is used in 11S 5.0 and earlier.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a senior developer at xyz.com.\r\n        xyz.com makes use of ASP .NET for developing Web applications.\r\n        You are currently running a training exercise for potential developers. \r\n        You are discussing the aspnet_wp.exe worker process.\r\n        What is TRUE with regards to the aspnet_wp.exe worker process? (Choose all that apply.)",
+      "Type": 0,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 50,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "An architect develops system content.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "The Page Load method will be prevented from completing.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "The Page Load method will be validated prior to firing.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "The Page Load method will not be validated prior to firing.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n                   You are using ASP.NET to develop a new Web page for xyz.com.\r\n        You have recently written code for a Page Load method.\r\n        You then configured the AutoEventWireup attribute of the @page directive to be TRUE.\r\n        which of the following describes the results of this configuration?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 51,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the browser\u0027s History tab.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the browser\u0027s Favorites tab.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of cookies.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the browser\u0027s Feeds tab.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You are using ASP.NET and C# to develop a new Web site for xyz.com.\r\n        The Web site will be used to find places of interest.\r\n        You are instructed to make sure that the Web pages presents a list, in the bottom left-hand side, of the places of interest that were browsed in recent times.\r\n        Furthermore, you are infonned that the browsing data should be accessible to all Web pages, even if the user restarts the browser.\r\n        You want to complete your task using as little administrative effort, and without making use of server side resources.\r\n        What option should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 52,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making sure that all client workstations have Windows 7 installed.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making sure that all client workstations have the necessary hardware requirements.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making sure that all client workstations are password protected.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making sure that all client workstations have a suitable Web browser installed.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You make use of ASP.NET and C# for development purposes.\r\n        xyz.com has an Internet Information Services (IIS) server, named xyz-SR07, which hosts a newly developed Web application.\r\n        You are then informed that you must ensure that all xyz.com\u0027s staff is able to make use of the new Web application.\r\n        Which of the following actions should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 53,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It specifies that you want to expose the method as part of the Web service.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It prevents you from exposing the method as part of the Web service.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It allows you to make use of the properties of this attribute to further configure the behavior of the Web service method.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "Further configuration of the behavior of the Web service method is disallowed.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You are in the process of creating a Web service using ASP.NET.\r\n        You have attached the WebMethod attribute to a Public method.\r\n        Which of the following options describe your reasons for doing this? (Choose all that apply.)",
+      "Type": 0,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 54,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should analyze the test page that is shown in the Web browser after using Visual Studio to execute the Web services project.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of black-box testing.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of black-box testing.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of alpha testing -box testing.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        xyz.com uses Visual Studio in their business.\r\n        You recently made use of C# to develop a new Web service that supports mapping data.\r\n        You want to make sure that the Web service produces the proper output using the least amount of effort.\r\n        Which of the following actions should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 55,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider inserting the reference in the machine.config file",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider inserting the reference in the app.config file",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider inserting the reference in the Web.config file.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider configuring a Web reference to identify the Web service.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You are using ASP.NET to develop a new Web application, named TKWebApp for xyz.com.\r\n        TKWebApp makes use of a Web service to obtain data.\r\n        You want to make sure that you are able to make use of the methods of this Web service inside TKWebApp by creating the client-side proxy classes.\r\n        Which of the following actions should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 56,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider generating a custom control for the unique user interface.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider generating a Web Form",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider generating a Windows Service.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider generating a new User Form.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You have received instructions to create a new Windows application for xyz.com.\r\n        You are informed that the application should include a unique user interface element that allows for user contribution. \r\n        Furthermore, you are informed that a number of additional applications will be employing this unique user interface.\r\n        You have noticed that the Visual Studio toolbox does not have suitable tools to complete your task. \r\n        You then decide to create the necessary code from scratch.\r\n        What option should you make use of?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 57,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It allows the user interface component the react to user actions.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It prevents the user interface component from reacting to user actions.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It allows the user interface component to send messages to the Event Log.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It prevents the user interface component from sending messages to the Event Log.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have been instructed to create a user interface component for a new xyz.com application.\r\n        You are required to make use of an event programming construct.\r\n        What is the reason for this?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 58,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It is made up of one or more independent windows, which appears separately on the Windows desktop.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It is made up of a single main window, and the application\u0027s windows are contained within or float on top of the main window.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It is an interface that enables business managers to track and manage all the business processes from SharePoint Team Services.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It includes only the signatures of methods, delegates or events.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You have received instructions to create a new Windows application for xyz.com.\r\n        You are planning to create a Single Document Interface (SDI) application.\r\n        What option is TRUE with regards to using Single Document Interface (SDI)?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 59,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider developing a custom control.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider developing a stored procedure.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider developing a custom user interface.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider developing a console application.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have been instructed to create a new application for xyz.com. \r\n        The application must be configured to update records on a daily basis.\r\n        The application should be configured to store error messages that take place while the application is running in a .txt file.\r\n        You should also make sure that the application starts automatically, without human input.\r\n        You have been informed that your solution should reduce the amount of processes required for development, installation, and updates.\r\n        What option should you use?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 60,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider creating a Windows Service application project, and configuring the Output type as Console Application.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider creating a Windows Forms application project with the Output type set to Console Application.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider creating a Web application project with the Output type set to Windows Forms Application.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider creating a Console Application project with the Output type set to Windows Forms.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have received instructions to create a new application for entering data.\r\n        You have been informed that users will enter data via a keyboard or a bar-code scanner.\r\n        Furthermore, an image of an item must be displayed onscreen as soon as a code is entered.\r\n        To keep an eye on communication with the bar-code scanner, the application must log its operation to a console window.\r\n        Which of the following actions should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 61,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider creating a Windows Service application.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider creating an Active Directory application.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider creating a Federated application.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider creating a Global Service application.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have been instructed to create a new application for xyz.com.\r\n        You want to make sure that the application allows for:\r\n        *Internet communication via Electronic Data Interface (EDI).\r\n        *Continual execution in the background.\r\n        *Messages to be written to the Windows application event log, and has no user interface.\r\n        *A user to log off without interrupting the application\u0027s processes.\r\n        What option should you make use of?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 62,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider accessing the Event Viewer on the local workstation.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider accessing the app.config file on the local workstation.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider accessing the machine.config file on the local workstation.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider accessing the web.config file on the local workstation.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have recently created a new application for xyz.com.\r\n        Messages written by the new application will be stored in the Windows application event log of the local workstation.\r\n        You want to examine these messages on a daily basis.\r\n        What option should you make use of?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 63,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It installs an executable containing classes that expand ServiceBase.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It installs a class that expands ServiceBase to execute a service.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It specifies a description for a property or event.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It permits declarative service controller permission checks.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You are making use of .NET Framework 4.5 to develop Windows service applications.\r\n        You have been instructed to create a new service application for xyz.com.\r\n        Your code will include the System.ServiceProcess.ServiceInstaller class.\r\n        VVhat is a TRUE statement with regards to this class?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 64,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider configuring the CanPauseAndContinue property of the service to true.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider configuring the CanShutdown property of the service to false.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider configuring the CanStop property of the service to true.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider configuring the ExitCode property of the service to true.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have been instructed to create an order processing Windows service application.\r\n        Your solution should allow for the postponement of the process when system maintenance is required, as well as the resumption\r\n        of the process subsequent to the maintenance being completed.\r\n        Which of the following actions should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 65,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider configuring the Windows service project to include an application installer.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider configuring the Windows service project to include an SMS installer.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider configuring the Windows service project to include a Custom Installation Wizard.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider configuring the Windows service project to include a service installer.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        xyz.com makes use of SQL Server databases in their environment.\r\n        You have been instructed to create a Windows service application for xyz.com.\r\n        The application will include a trio of Windows services that are dissimilar.\r\n        You want to make sure that the services are operational by installing them prior to use.\r\n        You are then informed that the services must be installed using a suitable Windows installer tool.\r\n        Which of the following actions should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 66,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "The Source property is used to set the source name to register and use when writing to the event log.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "The Source property is used to set the object used to marshal the event handler calls issued as a result of an EventLog entry written event.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "The Source property is used to set the name of the log to read from or write to.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "The Source property is used to set the contents of the event log.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        xyz.com makes use of SQL Server databases in their environment.\r\n        You have been instructed to create a new windows program for xyz.com. \r\n        The program must be able to record messages in the event log. \r\n        You have decided to include the Source property of the EventLog class in your code.\r\n        Which of the following best describes the purpose of the Source property in the EventLog class?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 67,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider executing this service using the LocalSystem account.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider executing this service using the GlobalSystem account.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider executing this service using the Admin account.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider executing this service using the GlobalService account.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        xyz.com makes use of SQL Server in their environment.\r\n        You have been instructed to create a Windows service.\r\n        This Windows service must have the ability to retrieve data hosted by the Windows Registry.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 68,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It enables you to alter the display and performance of the form to an MDI parent form.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It obtains a value indicating whether the form is a MDI child form.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It prevents you from altering the display and performance of the form to an MDI parent form.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It obtains a value indicating whether the form is a MDI parent form.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You are making use of .NET Framework 4.5 to develop Windows Forms applications.\r\n        You have just completed creating a new Windows Forms application for xyz.com.\r\n        You are preparing to configure the IsMdiContainer property of the form.\r\n        Which of the following is TRUE with regards to this configuration?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 69,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of MdiLayout.TileVertical.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of MdiLayout.TilePerpendicular.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of MdiLayout.TileParallel.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of MdiLayout.TileDiagonal.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have receive instructions to create a new multiple document interface (MDI) Windows Form.\r\n        You want to make sure that the code you create allows for the child windows to be displayed perpendicularly inside the client area of the MDI parent form.\r\n        What option should you use in your code?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 70,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the Fill method.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the StreamWriter class.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider executing the Dfsutil.exe command.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the Console.Read method.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have been instructed to create a new command-line application for xyz.com.\r\n        You want to make sure that you are able to retrieve a response from the command-line.\r\n        What option should you make use of?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 71,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the net start command.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the Nslookup command.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "An architect deals with quality control.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the net use command.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        xyz.com makes use of SQL Server databases in their environment.\r\n        You have recently created a Windows service for xyz.com. \r\n        You are then instructed to run a newly created Windows service from the command-line.\r\n        What is the option you should take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 72,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider executing the Snmputil.exe command.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider executing the Fed-Util.exe command.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider executing the InstallUtil.exe command.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider executing the Dfsutil.exe command.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have just completed the creation of a Windows service.\r\n        You are now preparing to apply the service by installing it.\r\n        What option should you use?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 73,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the DMLWriter class.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the StreamWriter class.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the DDLWriter class.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the SSLWriter class.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        xyz.com makes use of SQL Server in their environment.\r\n        You are creating a new application for xyz.com.\r\n        The new application should be configured to xyz.com\u0027s client list in a .txt file.\r\n        You have been informed that your solution should allow for the file to be accessed by ordinary text editors.\r\n        You have also been informed that the file should take up as little space as possible.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 74,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the SqlCommand.ExecuteReader method.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the SqlCommand.ExecuteScalar method.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the SqlCommand.ExecuteXmlReader method.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the SqlCommand.BeginExecuteXmlReader method.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        You are using ASP.NET and C# to develop a new Web site for xyz.com.\r\n        You have created a new application for xyz.com using C#. \r\n        The new application must be able to retrieve a single value from a xyz.com SQL Server database.\r\n        You want to make sure that this process takes as little time as possible.\r\n        What option should you make use of?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 75,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the FILL SQL statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the DISCONTINUE SQL statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the REFRESH SQL statement.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the DELETE SQL statement.",
+          "IsCorrect": true,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        xyz.com makes use of SQL Server in their environment.\r\n        xyz.com has a database table, named TKItems. \r\n        You want to make sure that obsolete items are expunged from TKItems when you update it.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 76,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider configuring the DataTable class to store the data.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider configuring the DataSet class to store the data.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider configuring the OleDbDataReader class to store the data.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider configuring the StreamReader class to store the data.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com. \r\n        xyz.com makes use of SQL Server databases in their environment.\r\n        You have been instructed to create a new program for xyz.com. \r\n        the program must be able to return a list of data from a xyz.com database and allow you to view the returned data,\r\n        regardless of whether you are linked to the SQL server or not.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 77,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "It writes characters using an encoding value to convert the characters to bytes.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "It allows characters to be read using an encoding value to convert the characters from bytes.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "It writes basic types in binary to a stream and supports writing strings in a specific encoding.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "It writes a forward-only stream of data rows to a data source.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        xyz.com makes use of SQL Server databases in their environment.\r\n        You have been instructed to create a new program for xyz.com.\r\n        This new program must be able to write information to a flat file.\r\n        You decide to include a BinaryWriter class in your code.\r\n        What is TRUE with regards to the BinaryWriter class?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 78,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "You should consider making use of the Fill method in the written code.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "You should consider making use of the Copy method in the written code.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "You should consider making use of the Duplicate method in the written code.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "You should consider making use of the ReturnData method in the written code.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        You have received instructions to create a new application for xyz.com. \r\n        The new application must have the ability to duplicate information hosted by a xyz.com SQL server data table in a Dataset.\r\n        What action should you take?",
+      "Type": 1,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    },
+    {
+      "ID": 79,
+      "Answers": [
+        {
+          "ID": 1,
+          "Value": "Stored procedures can improve the security of your application.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 2,
+          "Value": "Stored procedures prevent modular programming.",
+          "IsCorrect": false,
+          "IsSelected": false
+        },
+        {
+          "ID": 3,
+          "Value": "Stored procedures are created once, and can be called any number of times in your program.",
+          "IsCorrect": true,
+          "IsSelected": false
+        },
+        {
+          "ID": 4,
+          "Value": "Stored procedures are stored locally on client computers.",
+          "IsCorrect": false,
+          "IsSelected": false
+        }
+      ],
+      "Value": "You are employed as a developer at xyz.com.\r\n        xyz.com makes use of SQL Server databases in their environment.\r\n        You are currently running a training exercise for potential developers.\r\n        You are in the process of discussing stored procedures.\r\n        That are options that suitably describe the advantages of making use of stored procedures in SQL Server? (Choose all that apply.)",
+      "Type": 0,
+      "IsCorrect": false,
+      "IsFlagged": false,
+      "Num": 0
+    }
+  ]
+}
