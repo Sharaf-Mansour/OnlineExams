@@ -1,0 +1,33 @@
+﻿@page "/Download"
+ 
+<button class="btnsubmit" @onclick='()=>((IJSInProcessRuntime)JSRuntime).InvokeVoid("window.print", null)'>Print</button>
+<button class="btnsubmit" @onclick='()=>NavigationManager.NavigateTo("/Score")'>back</button>
+@foreach (var question in ExamService.Exam.Questions)
+{
+    <div>
+        <h2 style="padding:20px">Qeustion Number @question.Num </h2>
+        @if (question.Type is ControlType.ImgRadio)
+        {
+            <img src="@question.Value" style="  max-width: 75%;  height: auto;" />
+        }
+        else
+        {
+            <pre style="padding:20px"> @question.Value </pre> <br />
+        }
+        <br />
+        <div style="padding-left: 20px;">
+            @foreach (var item in question.Answers)
+            {
+                <label for="@item.ID" class=" @((item.IsCorrect) ? "blue" : "" ) ">
+                    <pre class="@((item.IsSelected) ? "checkright":"")">@item.Value </pre>
+                </label>
+            }
+            <br />     <label>
+                <strong>
+                    @(question.Answers.Any(x => x.IsSelected) == true ? question.IsCorrect ? "CORRECT" : "WRONG" : "Not Answered")
+                </strong>
+            </label>
+        </div>
+    </div>
+    <br clear="all" style="page-break-before:always" />
+}
