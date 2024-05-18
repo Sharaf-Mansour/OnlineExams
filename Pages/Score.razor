@@ -1,0 +1,26 @@
+﻿@page "/score"
+<div class="container">
+    <div class="wrapper">
+        <h1>You scored  @ExamService.RetrieveScore() out of @ExamService.RetrieveQeustionsCount()</h1>
+        <progress class="progress" id="file" value="@ExamService.RetrieveGrade()" max="100" data-label="@ExamService.RetrieveGrade()">  </progress>
+    </div>
+    <button class="btnsubmit" @onclick='()=>NavigationManager.NavigateTo("/")'>
+        Retake Exam
+    </button>
+    <button class="btnsubmit" @onclick='()=> NavigationManager.NavigateTo("/Download")'>
+        Download EXAM
+    </button>
+    <div class="table-box">
+        <table cellspacing='0' class="tbl">
+            <tbody class="tbodytbl">
+                @foreach (var item in ExamService.Exam.Questions)
+                {
+                    <tr class="trbodytbl">
+                        <td class="tddata">@item.Num</td>
+                        <td class="tddata @(item.IsCorrect ? "right" : "wrong")   "></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
