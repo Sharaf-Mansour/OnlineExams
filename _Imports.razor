@@ -7,4 +7,10 @@
 @using Microsoft.AspNetCore.Components.WebAssembly.Http
 @using Microsoft.JSInterop
 @using OnlineExams
+@using OnlineExams.Models
 @using OnlineExams.Layout
+@using OnlineExams.Services.Foundation
+
+@inject NavigationManager NavigationManager
+@inject IExamService ExamService
+@inject IJSRuntime JSRuntime
