@@ -1,0 +1,32 @@
+﻿@page "/Review"
+
+<p style="text-align: center;color: #000;font-weight: bold;margin: 10px;">
+    <span class="spntbl">answered @ExamService.RetrieveAnsweredCount()<span style="color: #ddd;">|</span></span>
+    <span class="spntbl">Not answered @ExamService.RetrieveNotAnsweredCount()<span style="color: #ddd;">|</span></span>
+    <span class="spntbl">Marked @ExamService.RetrieveFlagCount() <span style="color: #ddd;">|</span></span>
+    <span class="spntbl">Count  @ExamService.RetrieveQeustionsCount() &nbsp;</span>
+    <button class="btnend" @onclick='()=>NavigationManager.NavigateTo($"/Score")'>End</button>
+</p>
+<div class="table-box">
+    <table cellspacing='0' class="tbl">
+        <thead class="theadtbl">
+            <tr class="trheadtbl">
+                <th class="thtitle">ID</th>
+                <th class="thtitle">Flagged</th>
+                <th class="thtitle">Not Answerd</th>
+                <th class="thtitle">Go to Q</th>
+            </tr>
+        </thead>
+        <tbody class="tbodytbl">
+            @foreach (var question in ExamService.Exam.Questions)
+            {
+                <tr class="trbodytbl">
+                    <td class="tddata" style="width:10%">@question.Num</td>
+                    <td class="tddata @(question.IsFlagged ? "mark" : "") " style="width:32%"></td>
+                    <td class="tddata @(question.Answers.Any(x => x.IsSelected) == false?  "answer" : "" )" style="width:42%"></td>
+                    <td class="tddata"><button class="btndone" @onclick='()=>NavigationManager.NavigateTo($"/q/{question.Num}")'>@question.Num</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
