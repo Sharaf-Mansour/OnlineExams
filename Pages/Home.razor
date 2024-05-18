@@ -1,7 +1,58 @@
 ﻿@page "/"
+<div class="container">
+    <h1>Welcome to the Microsoft @ExamService.Exam.ExamCode Exam </h1>
+    <button class="btn btnindex" style="margin: 50px auto;" @onclick='StartExam'>Click to Start</button>
+    <div style="margin: 50px auto;margin-top: 20px;padding-top: 10px;border: 2px solid #aaa;border-radius: 12px;box-shadow: 0 0px 20px #999;width: 80%;">
+        <h1 style="margin-bottom: 25px;">Control Panel</h1>
+        <table border="0" style="text-align: left;margin: auto; width: 25%">
+            <tr>
+                <td colspan="2" style="text-align: center; vertical-align: middle; width: 50%;">
+                    <button @onclick='() =>SetExam(ExamCode.AI900)' class='btnnav @( ExamCode is ExamCode.AI900 ?  "btnnavcolorcheck active" : "")'>
+                        AI Exam
+                    </button>
+                </td>
+                <td colspan="2" style="text-align: center; vertical-align: middle; width: 50%;">
+                    <button @onclick='() =>SetExam(ExamCode.MTA98_361)' class='btnnav @( ExamCode is ExamCode.MTA98_361 ?  "btnnavcolorcheck active" : "")'>
+                        MTA Exam
+                    </button>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="padding-top:20px;">
+                    <input type="checkbox" name="cb" id="cb1" @bind="ExamService.AllowShowAnswer" /><label class="label" for="cb1">&nbsp;Show Answer</label>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="padding-top:20px;">
+                    <input type="checkbox" name="cb" id="cb2" @bind="ExamService.ShuffleQeustion" /><label class="label" for="cb2">&nbsp;Random&nbsp;Questions</label>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" style="padding-top:20px;">
+                    <input type="checkbox" name="cb" id="cb3" @bind="ExamService.ShuffleAnswer" /><label class="label" for="cb3">&nbsp;Random Answer</label>
+                </td>
+            </tr>
+        </table>
+        <br />
+    </div>
+</div>
+@code {
+    ExamCode ExamCode {  get;  set; } = ExamCode.AI900;
 
-<PageTitle>Home</PageTitle>
-
-<h1>Hello, world!</h1>
-
-Welcome to your new app.
+    private async Task SetExam(ExamCode examCode) => await ExamService.RetrieveExamAsync(ExamCode = examCode);
+  
+    private async Task StartExam()
+    {
+        await SetExam(ExamCode);
+        if (ExamService.ShuffleQeustion)
+            ExamService.ShuffleQeustions();
+        else
+            ExamService.SortQeustions();
+        if (ExamService.ShuffleAnswer)
+            ExamService.ShuffleAnswers();
+        else
+            ExamService.SortAnswers();
+        ExamService.AssignNumbers();
+        NavigationManager.NavigateTo("/q/1");
+    }
+}
