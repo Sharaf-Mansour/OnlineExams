@@ -4,10 +4,10 @@
         <h1>You scored  @ExamService.RetrieveScore() out of @ExamService.RetrieveQeustionsCount()</h1>
         <progress class="progress" id="file" value="@ExamService.RetrieveGrade()" max="100" data-label="@ExamService.RetrieveGrade()">  </progress>
     </div>
-    <button class="btnsubmit" @onclick='()=>NavigationManager.NavigateTo("/")'>
+    <button class="btnsubmit" @onclick='()=>NavigationManager.NavigateTo("")'>
         Retake Exam
     </button>
-    <button class="btnsubmit" @onclick='()=> NavigationManager.NavigateTo("/Download")'>
+    <button class="btnsubmit" @onclick='()=> NavigationManager.NavigateTo("Download")'>
         Download EXAM
     </button>
     <div class="table-box">

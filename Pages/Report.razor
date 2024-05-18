@@ -1,7 +1,7 @@
 ﻿@page "/Download"
  
 <button class="btnsubmit" @onclick='()=>((IJSInProcessRuntime)JSRuntime).InvokeVoid("window.print", null)'>Print</button>
-<button class="btnsubmit" @onclick='()=>NavigationManager.NavigateTo("/Score")'>back</button>
+<button class="btnsubmit" @onclick='()=>NavigationManager.NavigateTo("Score")'>back</button>
 @foreach (var question in ExamService.Exam.Questions)
 {
     <div>

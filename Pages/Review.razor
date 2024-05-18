@@ -5,7 +5,7 @@
     <span class="spntbl">Not answered @ExamService.RetrieveNotAnsweredCount()<span style="color: #ddd;">|</span></span>
     <span class="spntbl">Marked @ExamService.RetrieveFlagCount() <span style="color: #ddd;">|</span></span>
     <span class="spntbl">Count  @ExamService.RetrieveQeustionsCount() &nbsp;</span>
-    <button class="btnend" @onclick='()=>NavigationManager.NavigateTo($"/Score")'>End</button>
+    <button class="btnend" @onclick='()=>NavigationManager.NavigateTo($"Score")'>End</button>
 </p>
 <div class="table-box">
     <table cellspacing='0' class="tbl">
@@ -24,7 +24,7 @@
                     <td class="tddata" style="width:10%">@question.Num</td>
                     <td class="tddata @(question.IsFlagged ? "mark" : "") " style="width:32%"></td>
                     <td class="tddata @(question.Answers.Any(x => x.IsSelected) == false?  "answer" : "" )" style="width:42%"></td>
-                    <td class="tddata"><button class="btndone" @onclick='()=>NavigationManager.NavigateTo($"/q/{question.Num}")'>@question.Num</button></td>
+                    <td class="tddata"><button class="btndone" @onclick='()=>NavigationManager.NavigateTo($"Q/{question.Num}")'>@question.Num</button></td>
                 </tr>
             }
         </tbody>

@@ -9,7 +9,7 @@ public partial class Questions
     {
 
         if (QNumber < 1 || QNumber > ExamService.RetrieveQeustionsCount())
-            NavigationManager.NavigateTo("/", true);
+            NavigationManager.NavigateTo("", true);
     }
     private void RadioSelection(Answer Answer)
     {
